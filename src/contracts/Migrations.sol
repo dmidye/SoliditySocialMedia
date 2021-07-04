@@ -21,3 +21,5 @@ contract Migrations {
     upgraded.setCompleted(last_completed_migration);
   }
 }
+
+// this file comes with truffle and allows use to put new contracts on blockchain

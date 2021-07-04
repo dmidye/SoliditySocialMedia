@@ -20,3 +20,6 @@ module.exports = {
     }
   }
 }
+
+// this file tells the blockchain what to connect to.
+// ganache runs on port 7545 on localhost
